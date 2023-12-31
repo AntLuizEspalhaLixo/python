@@ -1,8 +1,11 @@
-import random
+import random #Importando a biblioteca random para utilizar as funções para gerar números aleatórios
 
-print("Bem-vindo ao jogo de cálculos do Yaguinho/Yoshi")
+#Mensagens iniciais do jogo
+print('')
+print('Bem-vindo ao jogo de cálculos do Yaguinho/Yoshi')
 print("Você deverá acertar o resultado dos cálculos se não será chamado de burro")
 print("Quando desejar sair/rage quit digite: sair")
+print('')
 
 # inicializando variaveis gerais
 encerrar = False
